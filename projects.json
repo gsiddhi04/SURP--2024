@@ -13,8 +13,8 @@
       "Learning Outcome & Expectations from the students": "He/she will get to understand how to approach a practical problem via concepts that he/she has already learnt in previous semesters. He/she will also get exposure to the industrial problems.\n\nExpectations from the student: He/she should be eager to learn new things and explore further. He/she should have the capability to grasp the problem and think of a suitable solution apart from the ones told to him/her.",
       "Weekly Time Commitment": "15 hours/week, and the student should meet atleast once a week. He/she is free to get in touch anytime in case of any query or doubt.",
       "Assignment": "https://drive.google.com/open?id=1ow3J5KH88pqk5w-lKk8GK_RIYJ0jTu8k&usp=drive_fs",
-      "Instructions for assignment": "Student should go through literature consistently, and present a short report every week on atleast 2-4 papers",
-      "Additional key points": ""
+      "Instructions for assignment": "Student should go through literature consistently, and present a short report every week on atleast 2-4 papers"
+      
     },
     {
       "Domain": "BSBE",
@@ -30,8 +30,8 @@
       "Learning Outcome & Expectations from the students": "Conference paper/presentation",
       "Weekly Time Commitment": "30 hours, meeting 1-2/weekly",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "BSBE",
@@ -47,8 +47,8 @@
       "Learning Outcome & Expectations from the students": "Conference paper/presentation",
       "Weekly Time Commitment": "30 hours, 1-/week",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "BSBE",
@@ -64,8 +64,8 @@
       "Learning Outcome & Expectations from the students": "Conference Paper/Presentation",
       "Weekly Time Commitment": "30 hours and 1-2/week",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "BSBE",
@@ -81,8 +81,8 @@
       "Learning Outcome & Expectations from the students": "Understanding of Biomedical Imaging, in particular ultrasound imaging principles, signal and image processing techniques",
       "Weekly Time Commitment": "15-30 hours/week , Meetings: once in a week",
       "Assignment": "Reference Book: Medical Imaging Signals and Systems",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "BSBE",
@@ -98,8 +98,8 @@
       "Learning Outcome & Expectations from the students": "Designing of PCB circuits for biomedical imaging applications.",
       "Weekly Time Commitment": "15-30 hours/week, meetings once a week",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "C-MINDS",
@@ -115,8 +115,8 @@
       "Learning Outcome & Expectations from the students": "Publications in the top journals and conferences in physics, control and ML, and/or patents.",
       "Weekly Time Commitment": "20 hr during the summer; weekly meetings (online if needed)",
       "Assignment": "https://doi.org/10.1016/j.automatica.2018.08.026\nhttps://doi.org/10.1109/TAC.2019.2893160",
-      "Instructions for assignment": "Go through the material before the interview.",
-      "Additional key points": ""
+      "Instructions for assignment": "Go through the material before the interview."
+      
     },
     {
       "Domain": "C-MINDS",
@@ -132,8 +132,8 @@
       "Learning Outcome & Expectations from the students": "Exposure to cutting-edge analytic and topological tools for signal analysis; as a consequence, publications in top journals and conferences of ML and cybernetics.",
       "Weekly Time Commitment": "20 hr during the summer; weekly meetings (online if needed).",
       "Assignment": "Material not available online; contact me for details.",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Centre for Technology Alternatives for Rural Areas (CTARA)",
@@ -149,8 +149,7 @@
       "Learning Outcome & Expectations from the students": "Data analysis of electricity demand.",
       "Weekly Time Commitment": "1 - 2 times a week. At least 20 hours a week.",
       "Assignment": "https://indianexpress.com/article/opinion/columns/smart-meter-saving-electricity-bills-environment-9036345/\ndoi:10.1016/j.enpol.2009.11.079\nDOI: 10.1002/er.1136\n           https://www.ise.fraunhofer.de/en/publications/studies/recent-facts-about-pv-in-germany.html (Recent Facts about Photovoltaic in Germany - Frauhhofer ISE)",
-      "Instructions for assignment": "Summarize the references.",
-      "Additional key points": ""
+      "Instructions for assignment": "Summarize the references."  
     },
     {
       "Domain": "Centre for Technology Alternatives for Rural Areas (CTARA)",
@@ -166,8 +165,8 @@
       "Learning Outcome & Expectations from the students": "Data analysis and energy usage in agriculture",
       "Weekly Time Commitment": "1 -2 meetings. AT least 20 hours a week.",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Centre for Technology Alternatives for Rural Areas (CTARA)",
@@ -183,8 +182,8 @@
       "Learning Outcome & Expectations from the students": "Learn networks.",
       "Weekly Time Commitment": "1 - 2meetings, at least 20 hours a week.",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Chemical",
@@ -200,8 +199,7 @@
       "Learning Outcome & Expectations from the students": "Learning outcomes: \n1. Experience in Scientific Computing. \n2. Exposure to systems biology and biological image processing\nExpectation:\nConversion to SLP/BTP post summer",
       "Weekly Time Commitment": "15-20 hours before classes start. After classes start it will be mutually discussed.",
       "Assignment": "https://proceedings.neurips.cc/paper/2016/file/7cce53cf90577442771720a370c3c723-Paper.pdf",
-      "Instructions for assignment": "Please prepare a 5 slide overview of the algorithm as you understand.",
-      "Additional key points": ""
+      "Instructions for assignment": "Please prepare a 5 slide overview of the algorithm as you understand."  
     },
     {
       "Domain": "Chemical",
@@ -217,8 +215,7 @@
       "Learning Outcome & Expectations from the students": "1) Introduction to lattice Boltzmann method for fluid flow 2) Theory of interface modeling for multi-phase systems 3) Mathematical model building 4) Interpretation of the numerical results.",
       "Weekly Time Commitment": "30 hours and meeting two time per week",
       "Assignment": "https://drive.google.com/drive/folders/1o51-ftPkK53C6IWd0DLoPWAhoao1F2c6?usp=sharing",
-      "Instructions for assignment": "One of the paper details the physics that needs to be modelled while the other gives overview of the numerical method that will be used in the project",
-      "Additional key points": ""
+      "Instructions for assignment": "One of the paper details the physics that needs to be modelled while the other gives overview of the numerical method that will be used in the project"  
     },
     {
       "Domain": "Chemical",
@@ -234,8 +231,8 @@
       "Learning Outcome & Expectations from the students": "1) introduction to lattice Boltzmann method for numerical simulation of advection-diffusion problems 2) introduction to computational reaction engineering 3) scalar transport in porous media 4) analysis of computational results",
       "Weekly Time Commitment": "30 hours and two times per week",
       "Assignment": "https://drive.google.com/drive/folders/1xMc_GT5lnuM1Mcq0jMq_GtXOA0UXAABh?usp=drive_link",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Chemical",
@@ -251,8 +248,7 @@
       "Learning Outcome & Expectations from the students": "Learning microfluidics and/or building and testing a water treatment device",
       "Weekly Time Commitment": "20 hrs. work per week, 2-3 meetings per week with me or my PhD student",
       "Assignment": "Published research paper title: Metallic Copper Nanoparticle Impregnated Activated Carbon for the Development of a Continuous, Gravity-Driven, Water Disinfection Device          \nAuthors: Angira Das, Akshay Patil, Rajdip Bandyopadhyaya  \nJournal: Transactions of the Indian Institute of Metals\nYear: 2023 \nPages: 1-9\nPublisher: Springer India",
-      "Instructions for assignment": "Prepare a verbal summary and meet and explain me briefly\nFurther, the interested students can come to lab, see the devices and discuss with PhD students already working on it.",
-      "Additional key points": ""
+      "Instructions for assignment": "Prepare a verbal summary and meet and explain me briefly\nFurther, the interested students can come to lab, see the devices and discuss with PhD students already working on it."  
     },
     {
       "Domain": "Chemical",
@@ -268,8 +264,7 @@
       "Learning Outcome & Expectations from the students": "At the end of the project, student will have a very good knowledge and understanding of downstream refinery processes. Also, he/she will learn about the Genetic Algorithm and AI/ML concepts.",
       "Weekly Time Commitment": "Student should commit alteady 4 hours everyday for 5 days a week and meet once a week.",
       "Assignment": "https://drive.google.com/file/d/1b5i811HZY3gnHDmdkhUMrr74tUEiNBsr/view?usp=sharing",
-      "Instructions for assignment": "Student is expected to understand the concept and application of Genetic Algorithm to perform Multiobjective Optimization",
-      "Additional key points": ""
+      "Instructions for assignment": "Student is expected to understand the concept and application of Genetic Algorithm to perform Multiobjective Optimization"  
     },
     {
       "Domain": "Chemical",
@@ -285,8 +280,7 @@
       "Learning Outcome & Expectations from the students": "The interns will be able to learn about the SPICE modelling and their applications in different other devices.",
       "Weekly Time Commitment": "Weekly commitment: Around 20hrs a week(negotiable); 1-2 times meeting per week",
       "Assignment": "https://esim.fossee.in\nhttps://github.com/FOSSEE/eSim/tree/master/library/deviceModelLibrary\nhttps://spoken-tutorial.org/watch/eSim/Creating+a+Device+Model/English\nhttps://esim.fossee.in/resources",
-      "Instructions for assignment": "Students need to look into the SPICE models and/or BSIM models in detail. Students need to look into the fabrication of the devices, steps in detail. Students also need to be aware about the various fabrication facilities available at IIT Bombay and in India.",
-      "Additional key points": ""
+      "Instructions for assignment": "Students need to look into the SPICE models and/or BSIM models in detail. Students need to look into the fabrication of the devices, steps in detail. Students also need to be aware about the various fabrication facilities available at IIT Bombay and in India."  
     },
     {
       "Domain": "Chemical",
@@ -302,8 +296,7 @@
       "Learning Outcome & Expectations from the students": "Use of machine learning tools",
       "Weekly Time Commitment": "15 hours of weekly commitment and 1-2 meetings per week",
       "Assignment": "https://doi.org/10.1016/j.cpc.2022.108654,     \nhttps://doi.org/10.1063/5.0209343",
-      "Instructions for assignment": "Write one paragraph summary of the any one of the above papers",
-      "Additional key points": ""
+      "Instructions for assignment": "Write one paragraph summary of the any one of the above papers"  
     },
     {
       "Domain": "Chemical",
@@ -319,8 +312,7 @@
       "Learning Outcome & Expectations from the students": "Machine learning, hydrogen storage materials",
       "Weekly Time Commitment": "15 hours per week commitment and 1-2 meetings per week",
       "Assignment": "https://www.sciencedirect.com/science/article/pii/S0927025623007218",
-      "Instructions for assignment": "Provide 1 paragraph summary of the paper above.",
-      "Additional key points": ""
+      "Instructions for assignment": "Provide 1 paragraph summary of the paper above."  
     },
     {
       "Domain": "Civil",
@@ -336,8 +328,7 @@
       "Learning Outcome & Expectations from the students": "1) Understanding road traffic flow, 2) Application of Convolutional Neural Networks, 3) Training of image processing algorithms",
       "Weekly Time Commitment": "Around 20 hours a week. Weekly meetings along with graduate students.",
       "Assignment": "https://www.sciencedirect.com/science/article/pii/S1877050922001363",
-      "Instructions for assignment": "Student need to summarize the above and other papers on Yolo and other relevant literature of vehicle classification.",
-      "Additional key points": ""
+      "Instructions for assignment": "Student need to summarize the above and other papers on Yolo and other relevant literature of vehicle classification."  
     },
     {
       "Domain": "Civil",
@@ -353,8 +344,7 @@
       "Learning Outcome & Expectations from the students": "In addition to learning, students would be contributing to indigenous development of new instruments for waterwave measurements",
       "Weekly Time Commitment": "2 hours and meeting - once a week",
       "Assignment": "https://iitbombay1-my.sharepoint.com/:f:/g/personal/srineash_iitbombay1_onmicrosoft_com/EjhJC0hzV_FAgQuTZgkkyYgBVM5-UThTwOONvjMxm-9-MQ?e=RTZNmO",
-      "Instructions for assignment": "Students are asked to prepare a single slide reflecting their understanding",
-      "Additional key points": ""
+      "Instructions for assignment": "Students are asked to prepare a single slide reflecting their understanding"  
     },
     {
       "Domain": "Civil",
@@ -370,8 +360,7 @@
       "Learning Outcome & Expectations from the students": "1. Technical Skills Development: Students may learn technical skills related to software development, database management, and user interface design through hands-on experience with the digital survey tool.\n\n2. Data Analysis Skills: Students may gain proficiency in data analysis techniques by working with collected travel pattern data and extracting meaningful insights using analytical tools.\n\n3. Understanding of Transportation Planning: Students may gain insights into transportation planning processes and methodologies by participating in discussions, workshops, and meetings related to travel demand modelling projects.",
       "Weekly Time Commitment": "Weekly commitment expected from the student (in hours) = 15 hours/week Frequency of meets the students should have every week = twice/week",
       "Assignment": "https://www.turing.com/kb/fastapi-vs-flask-a-detailed-comparison    \nhttps://www.w3schools.com/nodejs/default.asp        \nhttps://www.w3schools.com/REACT/DEFAULT.ASP\nhttps://tailwindcss.com/        \nhttps://developers.google.com/maps/documentation/javascript/tutorials       \nhttps://pypi.org/project/psycopg/       \nhttps://www.postgresql.org/    \nhttps://www.docker.com/      \nhttps://nginx.org/en/",
-      "Instructions for assignment": "Dear Students, \n You are tasked with understanding the key concepts of web development using the resources provided above. Your goal is to learn from each link and prepare a comprehensive 10-page report detailing how one can develop a web-based survey tool using the technologies and frameworks mentioned. \n Steps to Follow\n1. FastAPI vs Flask:\n   - Understand the differences and use cases for FastAPI and Flask.\n   - Identify which framework is more suitable for the backend of a web-based survey tool.\n   - Summarize the key features of the chosen framework.\n\n2. Node.js:\n   - Learn the basics of Node.js and its importance in building scalable network applications.\n   - Determine how Node.js can be integrated into your survey tool project, especially for backend services.\n\n3. React:\n   - Study the fundamental concepts of React and how it can be used to build dynamic user interfaces.\n   - Explain how React can be utilized to create the frontend of your survey tool.\n\n4. Tailwind CSS:\n   - Explore the utility-first CSS framework and how it helps in designing responsive and modern user interfaces.\n   - Describe how Tailwind CSS can be used to style your survey tool.\n\n5. Google Maps JavaScript API:\n   - Review the tutorials on adding interactive maps to your web application.\n   - Discuss potential uses of Google Maps in a survey tool, such as location-based questions.\n\n6. psycopg and PostgreSQL:\n   - Learn about psycopg as a PostgreSQL adapter for Python and its role in database interactions.\n   - Understand PostgreSQL as a powerful, open-source object-relational database system.\n   - Explain how to set up and interact with a PostgreSQL database for storing survey data.\n\n7. Docker:\n   - Investigate how Docker can be used to containerize your application, making it easier to deploy and manage.\n   - Discuss the benefits of using Docker in development and production environments for your survey tool.\n\n8. NGINX:\n   - Learn about NGINX as a web server that can also be used as a reverse proxy, load balancer, and HTTP cache.\n   - Explain how NGINX can be configured to serve your web-based survey tool efficiently.\n\n Report Structure\nYour report should include the following sections:\n\n1. Introduction:\n   - Briefly introduce the project and the importance of web-based survey tools.\n\n2. Technology Overview:\n   - Provide a summary of each technology and framework based on the resources.\n   - Highlight their roles and significance in web development.\n\n3. Framework and Tools Selection:\n   - Justify the selection of specific tools and frameworks for developing the survey tool.\n\n4. Development Plan:\n   - Outline the steps and methodologies to be followed in developing the survey tool.\n   - Include details on setting up the development environment, backend and frontend development, database integration, and deployment.\n5. Implementation Details:\n   - Provide a detailed explanation of how each tool and framework will be used in the project.\n   - Include code snippets, configurations, and setup instructions where applicable.\n\n6. Conclusion:\n   - Summarize the key points of your report.\n   - Discuss potential challenges and future enhancements for the survey tool.\n\n Submission Guidelines\n\n- The report should be 10 pages long, formatted professionally with clear headings and subheadings.\n- Include diagrams, code snippets, and screenshots to illustrate your points.\n- Submit the report as a WORD document. \n\nThis assignment is designed to give you hands-on experience with modern web development tools and practices. \nNote:\nEven if you cannot complete the report at this time, it is crucial that you go through all the concepts provided in the resources before starting work on the project. You are expected to submit the completed report at the end of the project.",
-      "Additional key points": ""
+      "Instructions for assignment": "Dear Students, \n You are tasked with understanding the key concepts of web development using the resources provided above. Your goal is to learn from each link and prepare a comprehensive 10-page report detailing how one can develop a web-based survey tool using the technologies and frameworks mentioned. \n Steps to Follow\n1. FastAPI vs Flask:\n   - Understand the differences and use cases for FastAPI and Flask.\n   - Identify which framework is more suitable for the backend of a web-based survey tool.\n   - Summarize the key features of the chosen framework.\n\n2. Node.js:\n   - Learn the basics of Node.js and its importance in building scalable network applications.\n   - Determine how Node.js can be integrated into your survey tool project, especially for backend services.\n\n3. React:\n   - Study the fundamental concepts of React and how it can be used to build dynamic user interfaces.\n   - Explain how React can be utilized to create the frontend of your survey tool.\n\n4. Tailwind CSS:\n   - Explore the utility-first CSS framework and how it helps in designing responsive and modern user interfaces.\n   - Describe how Tailwind CSS can be used to style your survey tool.\n\n5. Google Maps JavaScript API:\n   - Review the tutorials on adding interactive maps to your web application.\n   - Discuss potential uses of Google Maps in a survey tool, such as location-based questions.\n\n6. psycopg and PostgreSQL:\n   - Learn about psycopg as a PostgreSQL adapter for Python and its role in database interactions.\n   - Understand PostgreSQL as a powerful, open-source object-relational database system.\n   - Explain how to set up and interact with a PostgreSQL database for storing survey data.\n\n7. Docker:\n   - Investigate how Docker can be used to containerize your application, making it easier to deploy and manage.\n   - Discuss the benefits of using Docker in development and production environments for your survey tool.\n\n8. NGINX:\n   - Learn about NGINX as a web server that can also be used as a reverse proxy, load balancer, and HTTP cache.\n   - Explain how NGINX can be configured to serve your web-based survey tool efficiently.\n\n Report Structure\nYour report should include the following sections:\n\n1. Introduction:\n   - Briefly introduce the project and the importance of web-based survey tools.\n\n2. Technology Overview:\n   - Provide a summary of each technology and framework based on the resources.\n   - Highlight their roles and significance in web development.\n\n3. Framework and Tools Selection:\n   - Justify the selection of specific tools and frameworks for developing the survey tool.\n\n4. Development Plan:\n   - Outline the steps and methodologies to be followed in developing the survey tool.\n   - Include details on setting up the development environment, backend and frontend development, database integration, and deployment.\n5. Implementation Details:\n   - Provide a detailed explanation of how each tool and framework will be used in the project.\n   - Include code snippets, configurations, and setup instructions where applicable.\n\n6. Conclusion:\n   - Summarize the key points of your report.\n   - Discuss potential challenges and future enhancements for the survey tool.\n\n Submission Guidelines\n\n- The report should be 10 pages long, formatted professionally with clear headings and subheadings.\n- Include diagrams, code snippets, and screenshots to illustrate your points.\n- Submit the report as a WORD document. \n\nThis assignment is designed to give you hands-on experience with modern web development tools and practices. \nNote:\nEven if you cannot complete the report at this time, it is crucial that you go through all the concepts provided in the resources before starting work on the project. You are expected to submit the completed report at the end of the project."  
     },
     {
       "Domain": "Climate Studies",
@@ -387,8 +376,8 @@
       "Learning Outcome & Expectations from the students": "Through this project, students will gain hands-on experience in developing a multidimensional weather data product.",
       "Weekly Time Commitment": "Weekly 3-5 hours for work, The frequency of meeting: Once a week",
       "Assignment": "https://climateestimate.net/content/netcdfs-and-basic-coding.html",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Climate Studies",
@@ -404,8 +393,7 @@
       "Learning Outcome & Expectations from the students": "Student will get to develop advanced architectures to downscale precipitation. We will also target to publish a paper from this work. Eventually we want to develop this as a dataset for public use. \nThis would be a fantastic opportunity to contribute to nation's efforts to advance climate science. If successful, the data will have global user base.",
       "Weekly Time Commitment": "Weekly once or twice. 20 working hours per week. I am flexible with working hours so long the progress is made to achieve the goals.",
       "Assignment": "Read the below four papers before coming up with a plan.\n\n1. https://drive.google.com/file/d/1ljTAStesxqYPCoQeuuSRHKmofD_U7S28/view?usp=drivesdk\n\n2. https://drive.google.com/file/d/1lspR7prQfWvdB-XP5zqu9-29JffwxQNH/view?usp=drivesdk\n\n3. https://drive.google.com/file/d/1lesnMdxS78qMsHTWTCcHtyjtYEXGPjJZ/view?usp=drivesdk\n\n4. https://drive.google.com/file/d/1lj7ouESWRdGvm0jY8j7Z_DfhFDurFyov/view?usp=drivesdk",
-      "Instructions for assignment": "Students are expected to read the papers and come up with a plan of DL architecture that can potentially improve the performance of downscaled precipitation. They shojld discuss the plan with us (myself along with Prof. Biplab Banerjee) at the beginning of the project.",
-      "Additional key points": ""
+      "Instructions for assignment": "Students are expected to read the papers and come up with a plan of DL architecture that can potentially improve the performance of downscaled precipitation. They shojld discuss the plan with us (myself along with Prof. Biplab Banerjee) at the beginning of the project."  
     },
     {
       "Domain": "Computer Science",
@@ -421,8 +409,7 @@
       "Learning Outcome & Expectations from the students": "The deliverable is a usable application containing multiple learning components (including hands on). Students will be able to learn about app development and also geospatial technologies.",
       "Weekly Time Commitment": "5-6 hours, 1 meeting weekly.",
       "Assignment": "Details will be shared with interested students.",
-      "Instructions for assignment": "None.",
-      "Additional key points": ""
+      "Instructions for assignment": "None."  
     },
     {
       "Domain": "Computer Science",
@@ -438,8 +425,8 @@
       "Learning Outcome & Expectations from the students": "data collection pipeline, visualisation, etc",
       "Weekly Time Commitment": "6-12 hrs/week",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Computer Science",
@@ -455,8 +442,7 @@
       "Learning Outcome & Expectations from the students": "Mastering custom LLMs and APIs for domain expert systems.",
       "Weekly Time Commitment": "6 hours per day. Meet every week online 1 to 2x.",
       "Assignment": "ChatGPT API for custom LLMs",
-      "Instructions for assignment": "Understand the approach and chatGPT custom LLM ApI and be ready to answer oral uestions.",
-      "Additional key points": ""
+      "Instructions for assignment": "Understand the approach and chatGPT custom LLM ApI and be ready to answer oral uestions."  
     },
     {
       "Domain": "Computer Science",
@@ -488,8 +474,7 @@
       "Learning Outcome & Expectations from the students": "Student should be interested in algorithms and probability. The student will get an idea of how is it to do research in theoretical computer science. Specifically, they will learn how randomization is helpful in design of algorithms. Summer time will be spent on getting  familiarity with the basics. If the student puts enough effort, they can possibly get a publishable result in one semester.",
       "Weekly Time Commitment": "Meet every week.",
       "Assignment": "Look at this report and the references therein\n https://www.cse.iitb.ac.in/~rgurjar/CS485_Report-1.pdf",
-      "Instructions for assignment": "Should understand section 2.1 in the above report. Should think about the case when we want to take 2 secretaries instead of 1.",
-      "Additional key points": ""
+      "Instructions for assignment": "Should understand section 2.1 in the above report. Should think about the case when we want to take 2 secretaries instead of 1."  
     },
     {
       "Domain": "Earth Sciences",
@@ -505,8 +490,8 @@
       "Learning Outcome & Expectations from the students": "Understanding new types of datasets, and how palaeontology helps with understanding the history of life on earth.\nStudent should be genuinely interested and consistent with effort as this is a very small project.",
       "Weekly Time Commitment": "3 hours, 1 meeting",
       "Assignment": "https://micropalaeos.wixsite.com/micropalaeos;      \nhttps://youtu.be/I60dW6C_3Q4?feature=shared; https://www.sciencedirect.com/science/article/pii/S0921818120302034",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Educational Technology",
@@ -522,8 +507,7 @@
       "Learning Outcome & Expectations from the students": "You will be proficient in Mixed Method Data analysis and develop skills in machine learning /data analysis domain. I expect you to write a paper. Target Publication: Either a paper (preferably) or poster in LAK (https://www.solaresearch.org/events/lak/lak25/general-call/) conference 2025. Deadline (Early September: Before Midsem)",
       "Weekly Time Commitment": "14 hours (2 hours daily). Can get reduced, if you know how to automate things. Meeting - Once a week (mandatory) and whenever you need.",
       "Assignment": "https://carnegieendowment.org/research/2016/09/the-indian-administrative-service-meets-big-data?lang=en\n\nAlthough, the above resource is not a paper per se, there is actually no paper that addresses the proposed work (surprising, but true). If you find any, add it in your SOP.",
-      "Instructions for assignment": "Write your SOP honestly. In your SOP explain how you will approach the solution for the given research problem. Try to be as detailed as possible. Interview questions will be asked from SOP.",
-      "Additional key points": ""
+      "Instructions for assignment": "Write your SOP honestly. In your SOP explain how you will approach the solution for the given research problem. Try to be as detailed as possible. Interview questions will be asked from SOP."  
     },
     {
       "Domain": "Educational Technology",
@@ -539,8 +523,7 @@
       "Learning Outcome & Expectations from the students": "You will learn how to build a web application from scratch that can validate a content's authenticity. Also you should write a paper targeted to ICSE 2025 (https://conf.researchr.org/track/icse-2025/icse-2025-nier). Deadline October 10.",
       "Weekly Time Commitment": "Meeting once a week (mandatory). Weekly commitment: 7-10 hours.",
       "Assignment": "https://drive.google.com/file/d/1mgX6qk07bGpgHN9BuPcmF-v1ZWOdceWQ/view?usp=drive_link",
-      "Instructions for assignment": "Write your SOP honestly. In your SOP explain how you will approach the solution for the given research problem. Try to be as detailed as possible. Interview questions will be asked from SOP.\nFeel free to email the professor for any question on the address- syaamantak.das@iitb.ac.in.",
-      "Additional key points": ""
+      "Instructions for assignment": "Write your SOP honestly. In your SOP explain how you will approach the solution for the given research problem. Try to be as detailed as possible. Interview questions will be asked from SOP.\nFeel free to email the professor for any question on the address- syaamantak.das@iitb.ac.in."  
     },
     {
       "Domain": "Electrical",
@@ -556,8 +539,8 @@
       "Learning Outcome & Expectations from the students": "Deep",
       "Weekly Time Commitment": "varies.",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Electrical",
@@ -573,8 +556,7 @@
       "Learning Outcome & Expectations from the students": "3D NAND flash memory for Artificial Intelligence",
       "Weekly Time Commitment": "20 Hrs",
       "Assignment": "https://www.youtube.com/watch?v=45HAfu719iw",
-      "Instructions for assignment": "Need to submit their understanding (1 page)",
-      "Additional key points": ""
+      "Instructions for assignment": "Need to submit their understanding (1 page)"  
     },
     {
       "Domain": "Electrical",
@@ -590,127 +572,7 @@
       "Learning Outcome & Expectations from the students": "Data sanitization using AI",
       "Weekly Time Commitment": "20hrs",
       "Assignment": "https://www.youtube.com/watch?v=45HAfu719iw",
-      "Instructions for assignment": "Understanding writup (1 page)",
-      "Additional key points": ""
-    },
-    {
-      "Domain": "Electrical",
-      "Project Title": "Diabetes Detection and Curing Using Neuromorphic Chip",
-      "Project UID": "EE05",
-      "Name of Professor": "Prof Sandip Mondal",
-      "Project Description": "Storing the charges in the material either in semiconductor, dielectric, or conductors are important to preserve the information for the future which caters to a diverse range of applications from biomedical sensor to quantum information processing. In-spite of extensive fundamental and engineering progress, a unified design of charge sensors that caters to this diversity is still absent. The technological objective today is to determine the maximum amount of charges present in the material due to the unavailability of charge-sensing materials",
-      "Number of Students Required": 1,
-      "Year of Study Criteria": "Students entering their 3rd year, Students entering their 4th/5th year",
-      "CPI Eligibility Criteria": "8 and above",
-      "Prerequisites": "Python code",
-      "Duration": "1 year",
-      "Learning Outcome & Expectations from the students": "Monitoring devices",
-      "Weekly Time Commitment": "20 hrs",
-      "Assignment": "Storing the charges in the material either in semiconductor, dielectric, or conductors\nare important to preserve the information for the future which caters to a diverse range of\napplications from biomedical sensor to quantum information processing. In-spite of extensive fundamental and engineering progress, a unified design of charge sensors that caters to this diversity is still absent. The technological objective today is to determine the maximum amount of charges present in the material due to the unavailability of charge-sensing materials",
-      "Instructions for assignment": "Several materials available online",
-      "Additional key points": ""
-    },
-    {
-      "Domain": "Electrical",
-      "Project Title": "Designing of smart door bell",
-      "Project UID": "EE06",
-      "Name of Professor": "Prof Sandip Mondal",
-      "Project Description": "Image recognizable door bell need to design.",
-      "Number of Students Required": 2,
-      "Year of Study Criteria": "Students entering their 3rd year, Students entering their 4th/5th year",
-      "CPI Eligibility Criteria": "8.5 and above",
-      "Prerequisites": "Basic electronics",
-      "Duration": "3 months",
-      "Learning Outcome & Expectations from the students": "Smart door bell",
-      "Weekly Time Commitment": "20 hrs",
-      "Assignment": "Available online",
-      "Instructions for assignment": "Half page summery",
-      "Additional key points": ""
-    },
-    {
-      "Domain": "Electrical",
-      "Project Title": "Vibration Noise analysis for System Health monitoring of Super High pressure Compressor",
-      "Project UID": "EE07",
-      "Name of Professor": "Prof Siddhartha Prakash Duttagupta",
-      "Project Description": "The real-time health monitoring of a super high-pressure compressor through vibration noise analysis. By analyzing the frequency spectrum of the compressor's vibrations, subtle changes indicative of wear, misalignment, or other mechanical issues are detected. Advanced signal processing techniques, such as FFT, coupled with machine learning algorithms, provide a reliable means for predictive maintenance, minimizing downtime, and optimizing operational efficiency. Experimental validation will confirm the effectiveness, thereby enabling proactive maintenance strategies.",
-      "Number of Students Required": 3,
-      "Year of Study Criteria": "Students entering their 2nd year, Students entering their 3rd year, Students entering their 4th/5th year",
-      "CPI Eligibility Criteria": "6 and above",
-      "Prerequisites": "NA",
-      "Duration": "1 year",
-      "Learning Outcome & Expectations from the students": "Hands-on-experience on Hardware and software setups",
-      "Weekly Time Commitment": "20 hrs + Thrice a week meeting",
-      "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
-    },
-    {
-      "Domain": "Electrical",
-      "Project Title": "Micro electro luminesce enabled photocatalytic electrolyser for H. E. study in metals, super-alloys(inconel 718)",
-      "Project UID": "EE08",
-      "Name of Professor": "Prof. Siddhartha P Duttagupta",
-      "Project Description": "Photocatalysis leads to formation of hydrogen from water due to application solar energy. Use of photocatalytic materials like TiO2,Cu2O for water splitting devices like photo-electro chemical devices. Photo driven catalytic devices will be created with the help of ECDM micro-machining. Hydrogen thus created from the PDC device.",
-      "Number of Students Required": 3,
-      "Year of Study Criteria": "Students entering their 2nd year, Students entering their 3rd year, Students entering their 4th/5th year",
-      "CPI Eligibility Criteria": "6 and above",
-      "Prerequisites": "None",
-      "Duration": "1 year",
-      "Learning Outcome & Expectations from the students": "Hands-on Experience on hardware and software setup",
-      "Weekly Time Commitment": "20Hrs + Thrice a week meeting",
-      "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
-    },
-    {
-      "Domain": "Electrical",
-      "Project Title": "Machine Learning enabled rapid pattern recognition for mmWave Biomarker sensing.",
-      "Project UID": "EE09",
-      "Name of Professor": "Prof. Siddhartha Prakash Duttagupta",
-      "Project Description": "Development of robust and automated systems for biomarker detection and analysis with high sensitivity and specificity by combining mmWave spectroscopic imaging with advanced machine learning algorithms. Feature extraction of mmWave spectroscopic images of biomarker samples followed by Image processing by training and prediction of ML models. Learning and optimizing complex patterns in the mmWave images to identify biomarkers rapidly through ML models. Deployment of trained models to perform rapid inference on new mmWave spectroscopic images of biomarker samples for classification and analysis to enable fast and accurate recognition of biomarkers.",
-      "Number of Students Required": 3,
-      "Year of Study Criteria": "Students entering their 2nd year, Students entering their 3rd year, Students entering their 4th/5th year",
-      "CPI Eligibility Criteria": "None",
-      "Prerequisites": "NA",
-      "Duration": "1 year",
-      "Learning Outcome & Expectations from the students": "Hands-on-experience on software & hardware setups",
-      "Weekly Time Commitment": "20 hrs+ Thrice a week meeting",
-      "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
-    },
-    {
-      "Domain": "Electrical",
-      "Project Title": "Sustainable Optimization of Renewable energy platforms",
-      "Project UID": "EE10",
-      "Name of Professor": "Prof.Siddhartha Prakash Duttagupta",
-      "Project Description": "The integration of thermal and optical imagery, employing drones and sensors alongside\nsustainable AI models, to address operational challenges in solar power plants. By identifying issues such as shading, dust accumulation, and panel damage, early detection and maintenance become feasible, enabling dynamic strategies for optimizing energy efficiency and reliability. The methodology involves data collection, preprocessing, and model development, utilizing artificial neural networks (ANNs) to analyse images and sensor data. Dynamic shading analysis and aerosol/weather impact assessment further enhance predictive modelling, culminating in real-time monitoring and optimization of solar panel performance. This holistic approach promises to establish a cost-effective hybrid predictive system tailored for large solar power plants, ensuring practical implementation and sustainable operation.",
-      "Number of Students Required": 3,
-      "Year of Study Criteria": "Students entering their 2nd year, Students entering their 3rd year, Students entering their 4th/5th year",
-      "CPI Eligibility Criteria": "6 and above",
-      "Prerequisites": "NA",
-      "Duration": "1 year",
-      "Learning Outcome & Expectations from the students": "Hands-on-experience on software and hardware setups",
-      "Weekly Time Commitment": "20 Hrs + Thrice a week meeting",
-      "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
-    },
-    {
-      "Domain": "Electrical",
-      "Project Title": "An Autonomous Water Quality Monitoring and Water Treatment System for Waterbodies",
-      "Project UID": "EE11",
-      "Name of Professor": "Rajdip Bandyopadhyaya",
-      "Project Description": "We have been developing a complete water quality monitoring system consisting of a core module hosting an array of electrode/optical probe-based sensors for monitoring standard water-body parameters such as pH, temperature conductivity, turbidity, oxidation-reduction potential (ORP), dissolved oxygen (DO) etc., and reagent based quantification modules for specific chemical pollutants (e.g., fluoride - an inorganic pollutant, arsenic and chromium - metal pollutants etc.). Additional sensor modules can be installed to the core module, when required for a specific water body. The station is IOT enabled, and sensor readings are relayed to a wireless gateway at periodic intervals, which should be accessible anywhere in the world through a web interface. The entire system is envisaged to be locally powered at the deployment site, by a solar panel-battery combination, with uninterrupted operation over several weeks, without any manual intervention. One has to work in an interdisciplinary team and it will involve PCB design, microprocessor programming and sensors as research areas.",
-      "Number of Students Required": 2,
-      "Year of Study Criteria": "Students entering their 3rd year, Students entering their 4th/5th year",
-      "CPI Eligibility Criteria": "Greater than 7.0",
-      "Prerequisites": "Willing to learn new things",
-      "Duration": "Summer months and beyond based on mutual interest",
-      "Learning Outcome & Expectations from the students": "Further progress in performance to be done in the existing working device",
-      "Weekly Time Commitment": "20 hours per week and 2-3 meetings with me or my PhD student working on it",
-      "Assignment": "should visit our lab. to see and know the current autonomous sensor stations and their working first hand",
-      "Instructions for assignment": "Explain their understanding of the current sensor stations and devices in our lab. and their capability and plan to progress the work forward",
-      "Additional key points": ""
+      "Instructions for assignment": "Understanding writup (1 page)"  
     },
     {
       "Domain": "Electrical",
@@ -726,8 +588,123 @@
       "Learning Outcome & Expectations from the students": "The student will apply concepts learned in theory courses to industrial silicon solar cells.",
       "Weekly Time Commitment": "40 hours and minimum once a week meet",
       "Assignment": "",
-      "Instructions for assignment": "Interview will be based on EE207 or equivalent course.",
-      "Additional key points": ""
+      "Instructions for assignment": "Interview will be based on EE207 or equivalent course."  
+    },
+    {
+      "Domain": "Electrical",
+      "Project Title": "Diabetes Detection and Curing Using Neuromorphic Chip",
+      "Project UID": "EE05",
+      "Name of Professor": "Prof Sandip Mondal",
+      "Project Description": "Storing the charges in the material either in semiconductor, dielectric, or conductors are important to preserve the information for the future which caters to a diverse range of applications from biomedical sensor to quantum information processing. In-spite of extensive fundamental and engineering progress, a unified design of charge sensors that caters to this diversity is still absent. The technological objective today is to determine the maximum amount of charges present in the material due to the unavailability of charge-sensing materials",
+      "Number of Students Required": 1,
+      "Year of Study Criteria": "Students entering their 3rd year, Students entering their 4th/5th year",
+      "CPI Eligibility Criteria": "8 and above",
+      "Prerequisites": "Python code",
+      "Duration": "1 year",
+      "Learning Outcome & Expectations from the students": "Monitoring devices",
+      "Weekly Time Commitment": "20 hrs",
+      "Assignment": "Storing the charges in the material either in semiconductor, dielectric, or conductors\nare important to preserve the information for the future which caters to a diverse range of\napplications from biomedical sensor to quantum information processing. In-spite of extensive fundamental and engineering progress, a unified design of charge sensors that caters to this diversity is still absent. The technological objective today is to determine the maximum amount of charges present in the material due to the unavailability of charge-sensing materials",
+      "Instructions for assignment": "Several materials available online"  
+    },
+    {
+      "Domain": "Electrical",
+      "Project Title": "Designing of smart door bell",
+      "Project UID": "EE06",
+      "Name of Professor": "Prof Sandip Mondal",
+      "Project Description": "Image recognizable door bell need to design.",
+      "Number of Students Required": 2,
+      "Year of Study Criteria": "Students entering their 3rd year, Students entering their 4th/5th year",
+      "CPI Eligibility Criteria": "8.5 and above",
+      "Prerequisites": "Basic electronics",
+      "Duration": "3 months",
+      "Learning Outcome & Expectations from the students": "Smart door bell",
+      "Weekly Time Commitment": "20 hrs",
+      "Assignment": "Available online",
+      "Instructions for assignment": "Half page summery"  
+    },
+    {
+      "Domain": "Electrical",
+      "Project Title": "Vibration Noise analysis for System Health monitoring of Super High pressure Compressor",
+      "Project UID": "EE07",
+      "Name of Professor": "Prof Siddhartha Prakash Duttagupta",
+      "Project Description": "The real-time health monitoring of a super high-pressure compressor through vibration noise analysis. By analyzing the frequency spectrum of the compressor's vibrations, subtle changes indicative of wear, misalignment, or other mechanical issues are detected. Advanced signal processing techniques, such as FFT, coupled with machine learning algorithms, provide a reliable means for predictive maintenance, minimizing downtime, and optimizing operational efficiency. Experimental validation will confirm the effectiveness, thereby enabling proactive maintenance strategies.",
+      "Number of Students Required": 3,
+      "Year of Study Criteria": "Students entering their 2nd year, Students entering their 3rd year, Students entering their 4th/5th year",
+      "CPI Eligibility Criteria": "6 and above",
+      "Prerequisites": "NA",
+      "Duration": "1 year",
+      "Learning Outcome & Expectations from the students": "Hands-on-experience on Hardware and software setups",
+      "Weekly Time Commitment": "20 hrs + Thrice a week meeting",
+      "Assignment": "",
+      "Instructions for assignment": ""
+      
+    },
+    {
+      "Domain": "Electrical",
+      "Project Title": "Micro electro luminesce enabled photocatalytic electrolyser for H. E. study in metals, super-alloys(inconel 718)",
+      "Project UID": "EE08",
+      "Name of Professor": "Prof. Siddhartha P Duttagupta",
+      "Project Description": "Photocatalysis leads to formation of hydrogen from water due to application solar energy. Use of photocatalytic materials like TiO2,Cu2O for water splitting devices like photo-electro chemical devices. Photo driven catalytic devices will be created with the help of ECDM micro-machining. Hydrogen thus created from the PDC device.",
+      "Number of Students Required": 3,
+      "Year of Study Criteria": "Students entering their 2nd year, Students entering their 3rd year, Students entering their 4th/5th year",
+      "CPI Eligibility Criteria": "6 and above",
+      "Prerequisites": "None",
+      "Duration": "1 year",
+      "Learning Outcome & Expectations from the students": "Hands-on Experience on hardware and software setup",
+      "Weekly Time Commitment": "20Hrs + Thrice a week meeting",
+      "Assignment": "",
+      "Instructions for assignment": ""
+      
+    },
+    {
+      "Domain": "Electrical",
+      "Project Title": "Machine Learning enabled rapid pattern recognition for mmWave Biomarker sensing.",
+      "Project UID": "EE09",
+      "Name of Professor": "Prof. Siddhartha Prakash Duttagupta",
+      "Project Description": "Development of robust and automated systems for biomarker detection and analysis with high sensitivity and specificity by combining mmWave spectroscopic imaging with advanced machine learning algorithms. Feature extraction of mmWave spectroscopic images of biomarker samples followed by Image processing by training and prediction of ML models. Learning and optimizing complex patterns in the mmWave images to identify biomarkers rapidly through ML models. Deployment of trained models to perform rapid inference on new mmWave spectroscopic images of biomarker samples for classification and analysis to enable fast and accurate recognition of biomarkers.",
+      "Number of Students Required": 3,
+      "Year of Study Criteria": "Students entering their 2nd year, Students entering their 3rd year, Students entering their 4th/5th year",
+      "CPI Eligibility Criteria": "None",
+      "Prerequisites": "NA",
+      "Duration": "1 year",
+      "Learning Outcome & Expectations from the students": "Hands-on-experience on software & hardware setups",
+      "Weekly Time Commitment": "20 hrs+ Thrice a week meeting",
+      "Assignment": "",
+      "Instructions for assignment": ""
+      
+    },
+    {
+      "Domain": "Electrical",
+      "Project Title": "Sustainable Optimization of Renewable energy platforms",
+      "Project UID": "EE10",
+      "Name of Professor": "Prof.Siddhartha Prakash Duttagupta",
+      "Project Description": "The integration of thermal and optical imagery, employing drones and sensors alongside\nsustainable AI models, to address operational challenges in solar power plants. By identifying issues such as shading, dust accumulation, and panel damage, early detection and maintenance become feasible, enabling dynamic strategies for optimizing energy efficiency and reliability. The methodology involves data collection, preprocessing, and model development, utilizing artificial neural networks (ANNs) to analyse images and sensor data. Dynamic shading analysis and aerosol/weather impact assessment further enhance predictive modelling, culminating in real-time monitoring and optimization of solar panel performance. This holistic approach promises to establish a cost-effective hybrid predictive system tailored for large solar power plants, ensuring practical implementation and sustainable operation.",
+      "Number of Students Required": 3,
+      "Year of Study Criteria": "Students entering their 2nd year, Students entering their 3rd year, Students entering their 4th/5th year",
+      "CPI Eligibility Criteria": "6 and above",
+      "Prerequisites": "NA",
+      "Duration": "1 year",
+      "Learning Outcome & Expectations from the students": "Hands-on-experience on software and hardware setups",
+      "Weekly Time Commitment": "20 Hrs + Thrice a week meeting",
+      "Assignment": "",
+      "Instructions for assignment": ""
+      
+    },
+    {
+      "Domain": "Electrical",
+      "Project Title": "An Autonomous Water Quality Monitoring and Water Treatment System for Waterbodies",
+      "Project UID": "EE11",
+      "Name of Professor": "Rajdip Bandyopadhyaya",
+      "Project Description": "We have been developing a complete water quality monitoring system consisting of a core module hosting an array of electrode/optical probe-based sensors for monitoring standard water-body parameters such as pH, temperature conductivity, turbidity, oxidation-reduction potential (ORP), dissolved oxygen (DO) etc., and reagent based quantification modules for specific chemical pollutants (e.g., fluoride - an inorganic pollutant, arsenic and chromium - metal pollutants etc.). Additional sensor modules can be installed to the core module, when required for a specific water body. The station is IOT enabled, and sensor readings are relayed to a wireless gateway at periodic intervals, which should be accessible anywhere in the world through a web interface. The entire system is envisaged to be locally powered at the deployment site, by a solar panel-battery combination, with uninterrupted operation over several weeks, without any manual intervention. One has to work in an interdisciplinary team and it will involve PCB design, microprocessor programming and sensors as research areas.",
+      "Number of Students Required": 2,
+      "Year of Study Criteria": "Students entering their 3rd year, Students entering their 4th/5th year",
+      "CPI Eligibility Criteria": "Greater than 7.0",
+      "Prerequisites": "Willing to learn new things",
+      "Duration": "Summer months and beyond based on mutual interest",
+      "Learning Outcome & Expectations from the students": "Further progress in performance to be done in the existing working device",
+      "Weekly Time Commitment": "20 hours per week and 2-3 meetings with me or my PhD student working on it",
+      "Assignment": "should visit our lab. to see and know the current autonomous sensor stations and their working first hand",
+      "Instructions for assignment": "Explain their understanding of the current sensor stations and devices in our lab. and their capability and plan to progress the work forward"  
     },
     {
       "Domain": "Energy",
@@ -743,8 +720,8 @@
       "Learning Outcome & Expectations from the students": "The students will be able to understand and demonstrate the working and functionality of a EV charger",
       "Weekly Time Commitment": "One meeting every week",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Energy",
@@ -760,8 +737,8 @@
       "Learning Outcome & Expectations from the students": "The students will be expected to get well familiarised with the optimisation tools and their application for system identification",
       "Weekly Time Commitment": "Meeting once a week",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Energy",
@@ -777,8 +754,7 @@
       "Learning Outcome & Expectations from the students": "Student is expected to learn to simulate multi phase flow using at least one CFD software.",
       "Weekly Time Commitment": "30 -36 hours (weekly meeting)",
       "Assignment": "Li, D., Zhao, B., Wang, J. (2023). Data-driven identification of coherent structures in\ngas–solid systems using proper orthogonal decomposition and dynamic mode\ndecomposition. Physics of Fluids. 1 January 2023; 35 (1):\n013321.                  https://doi.org/10.1063/5.0131112.",
-      "Instructions for assignment": "The student is expected to summarize the article shared with this form.",
-      "Additional key points": ""
+      "Instructions for assignment": "The student is expected to summarize the article shared with this form."  
     },
     {
       "Domain": "Energy",
@@ -794,8 +770,7 @@
       "Learning Outcome & Expectations from the students": "Working on a project with immediate societal and environmental impact",
       "Weekly Time Commitment": "25-30 hours per week; can meet once a week. Daily interaction with Phd students",
       "Assignment": "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.090201#fulltext",
-      "Instructions for assignment": "Understand how passive cooling is achieved via radiative coatings",
-      "Additional key points": ""
+      "Instructions for assignment": "Understand how passive cooling is achieved via radiative coatings"  
     },
     {
       "Domain": "Environmental",
@@ -811,8 +786,7 @@
       "Learning Outcome & Expectations from the students": "A peer reviewed journal publication",
       "Weekly Time Commitment": "8 hours a week, and weekly/once in two weeks meeting",
       "Assignment": "",
-      "Instructions for assignment": "Search relevant papers in SciFinder and come prepared for the interview and write a good SOP.",
-      "Additional key points": ""
+      "Instructions for assignment": "Search relevant papers in SciFinder and come prepared for the interview and write a good SOP."  
     },
     {
       "Domain": "Koita Centre for Digital Health (KCDH)",
@@ -828,8 +802,7 @@
       "Learning Outcome & Expectations from the students": "The student will get extensive training in analyzing large-scale single-cell data and developing statistical models for interpreting genomics data applicable to the broader single-cell and bioinformatics community. Skills developed during the course of the project will be useful in both industrial and academic settings (grad schools). Besides this, you willg get hands on training on how to read, summarize,  think and solve research problems.",
       "Weekly Time Commitment": "30-40 hours",
       "Assignment": "https://drive.google.com/file/d/1gRwTFclvVxtNc8hj9TJ6M0aFyUC3iReh/view?usp=sharing",
-      "Instructions for assignment": "Summarize the broad thematic areas of the review article. Focus on what assumptions are needed for modelling population scale data (Box 2)",
-      "Additional key points": ""
+      "Instructions for assignment": "Summarize the broad thematic areas of the review article. Focus on what assumptions are needed for modelling population scale data (Box 2)"  
     },
     {
       "Domain": "Koita Centre for Digital Health (KCDH)",
@@ -845,8 +818,7 @@
       "Learning Outcome & Expectations from the students": "Students will get hands-on training to apply deep learning on multiomics datasets. Avenues for being co-authors in any publication resulting from work. Skills learned as part of the project are directly relevant to bith industry and academia (grad schools).",
       "Weekly Time Commitment": "30-40 hours",
       "Assignment": "https://drive.google.com/file/d/14ppymhNpz_R5pi1k_bP6HpHnkDHhOpju/view?usp=sharing",
-      "Instructions for assignment": "Summarize how deep learning is currently being used for problems in genomics following the attached pdf. Write a two page summary of the entire article.",
-      "Additional key points": ""
+      "Instructions for assignment": "Summarize how deep learning is currently being used for problems in genomics following the attached pdf. Write a two page summary of the entire article."  
     },
     {
       "Domain": "Koita Centre for Digital Health (KCDH)",
@@ -862,8 +834,7 @@
       "Learning Outcome & Expectations from the students": "Students will get hands-on training in genomics, statistical methods development and machine learning with a focus on transcriptomics datasets and will get to collaborate with clinicians.",
       "Weekly Time Commitment": "30-40 hours",
       "Assignment": "https://drive.google.com/file/d/1K8bGxW1AgdX1WvndeJC8Ty7v0ovYltkH/view?usp=sharing",
-      "Instructions for assignment": "Please summarize the attached pdf in two pages - focus on the important problems that have been solved in liver biology so far using single transcriptomics and spatial transcriptomics.",
-      "Additional key points": ""
+      "Instructions for assignment": "Please summarize the attached pdf in two pages - focus on the important problems that have been solved in liver biology so far using single transcriptomics and spatial transcriptomics."  
     },
     {
       "Domain": "Mathematics",
@@ -879,8 +850,8 @@
       "Learning Outcome & Expectations from the students": "The student is expected to gain hands-on experience and insights into using ANNs in option valuation.",
       "Weekly Time Commitment": "Commitment: 4 hours per day and for 6 days per week. Meeting: Atleast 2 times per week.",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Mechanical Engineering",
@@ -896,8 +867,7 @@
       "Learning Outcome & Expectations from the students": "Learning outcome for the student: He/she will get to understand how to approach a practical problem via concepts that he/she has already learnt in previous semesters. He/she will also get exposure to the industrial problems. He/she will also get to learn various interesting experimental techniques.\n\nExpectations from the student: He/she should be eager to learn new things and explore further. He/she should have the capability to grasp the problem and think of a suitable solution apart from the ones told to him/her.",
       "Weekly Time Commitment": "15 hours/week, and the student should meet atleast once a week. He/she is free to get in touch anytime in case of any query or doubt.",
       "Assignment": "https://iitbacin-my.sharepoint.com/:f:/g/personal/abhijeet_kumar_iitb_ac_in/EqM64-ohWURKu8C5r4aVD7YBpGZox9EQ_rOn4fsrgDie3g?e=pfa4am",
-      "Instructions for assignment": "Student should go through literature consistently, and present a short report every week on atleast 2-4 papers.",
-      "Additional key points": ""
+      "Instructions for assignment": "Student should go through literature consistently, and present a short report every week on atleast 2-4 papers."  
     },
     {
       "Domain": "Mechanical Engineering",
@@ -913,8 +883,8 @@
       "Learning Outcome & Expectations from the students": "Economic feasibility of various green hydrogen production routes",
       "Weekly Time Commitment": "weekly 8 hours and students shall meet 1-2 times a week.",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Mechanical Engineering",
@@ -930,8 +900,7 @@
       "Learning Outcome & Expectations from the students": "Hands-on experience with image processing, AI, GUI",
       "Weekly Time Commitment": "Students are required to submit regular progress reports at least once every two weeks. Until project deliverables are successfully met, students are NOT permitted to include this project on their resumes/CVs.",
       "Assignment": "There was a team of students from previous iSURP which was working on this. You may use some of their reports to learn more about the project.",
-      "Instructions for assignment": "https://docs.google.com/forms/d/16UrHJS7J7vH37b0TjZdNgkxJYcOKwKhbwxK6T6hvnCw/viewform?edit_requested=true&pli=1",
-      "Additional key points": ""
+      "Instructions for assignment": "https://docs.google.com/forms/d/16UrHJS7J7vH37b0TjZdNgkxJYcOKwKhbwxK6T6hvnCw/viewform?edit_requested=true&pli=1"  
     },
     {
       "Domain": "Mechanical Engineering",
@@ -947,8 +916,8 @@
       "Learning Outcome & Expectations from the students": "Hands on experience with PCB design and testing",
       "Weekly Time Commitment": "Students are required to submit regular progress reports at least once every two weeks. Until project deliverables are successfully met, students are NOT permitted to include this project on their resumes/CVs.",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Mechanical Engineering",
@@ -964,8 +933,7 @@
       "Learning Outcome & Expectations from the students": "Surface modelling, applications to advanced optics used in space, ophthalmic domain.",
       "Weekly Time Commitment": "1-2 hrs per week and meeting on each alternate week",
       "Assignment": "https://doi.org/10.1117/12.2056496",
-      "Instructions for assignment": "Student is expected to understand the basics",
-      "Additional key points": ""
+      "Instructions for assignment": "Student is expected to understand the basics"  
     },
     {
       "Domain": "Mechanical Engineering",
@@ -981,8 +949,7 @@
       "Learning Outcome & Expectations from the students": "Exposure to cutting-edge research in the field of Mechanical Metamaterials. Practical experience in building physical models and various testing methodologies. Experience using computational modeling software.\nStudents should commit to working on the project through the entire duration of the SURP.",
       "Weekly Time Commitment": "6 hours per week during Autumn semester. Weekly update meetings.",
       "Assignment": "i) Introductory video: https://www.youtube.com/watch?v=QGNL5LLeTyg\nii) https://onlinelibrary.wiley.com/doi/full/10.1002/adem.202300583 - Accessible via IITB. Reach out to me if you are not able to access the article.",
-      "Instructions for assignment": "Students should go through the paper link above and gauge their interest in building similar experimental specimens and perform testing on campus.",
-      "Additional key points": ""
+      "Instructions for assignment": "Students should go through the paper link above and gauge their interest in building similar experimental specimens and perform testing on campus."  
     },
     {
       "Domain": "Metallurgy and Material Sciences (MEMS)",
@@ -998,8 +965,8 @@
       "Learning Outcome & Expectations from the students": "Students will learn how to apply machine learning techniques to predict and design piezoelectric materials, focusing on critical physical properties like first ionization energy and formation energy. They will gain experience in validating ML predictions with experimental data, ensuring consistency and accuracy. Additionally, students are expected to explore various doping compositions and propose innovative solutions for enhancing piezoelectric performance.",
       "Weekly Time Commitment": "once",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Metallurgy and Material Sciences (MEMS)",
@@ -1032,8 +999,7 @@
       "Learning Outcome & Expectations from the students": "Image processing; Some background in Fourier analysis will be helpful",
       "Weekly Time Commitment": "20 hours",
       "Assignment": "https://www.sciencedirect.com/science/article/pii/S0304399198000357?pes=vor",
-      "Instructions for assignment": "Summarize the paper",
-      "Additional key points": ""
+      "Instructions for assignment": "Summarize the paper"  
     },
     {
       "Domain": "Metallurgy and Material Sciences (MEMS)",
@@ -1049,8 +1015,7 @@
       "Learning Outcome & Expectations from the students": "Ability to understand kinetics of multi-stage reactions; design of high temperature experiments and interpretation of data therefore; ability to develop simple models to explain the overall reaction rates in terms of controllable variables",
       "Weekly Time Commitment": "20-25 hours per week (including familiarisation with the work, setting up preliminary experiments, and analysis of results)",
       "Assignment": "Search on \"iron oxide reduction\" through an engine like SCOPUS or ScieneDirect",
-      "Instructions for assignment": "Details can be finalised after interaction with interested students",
-      "Additional key points": ""
+      "Instructions for assignment": "Details can be finalised after interaction with interested students"  
     },
     {
       "Domain": "Metallurgy and Material Sciences (MEMS)",
@@ -1066,8 +1031,7 @@
       "Learning Outcome & Expectations from the students": "Ability to solve a well-defined problem using existing simulation tools\n\nAbility to implement a new model and analyse the results focussing on the assumptions and limitations of the same (in case the student is involved in model development)",
       "Weekly Time Commitment": "40 hours per week commitment from students and meet 1-2 times per week",
       "Assignment": "https://www.sciencedirect.com/science/article/pii/S0079642520300670",
-      "Instructions for assignment": "Choose any one subsection from the paper and summarise it in 1 page and send it along with your application.",
-      "Additional key points": ""
+      "Instructions for assignment": "Choose any one subsection from the paper and summarise it in 1 page and send it along with your application."  
     },
     {
       "Domain": "Multidisciplinary",
@@ -1083,8 +1047,8 @@
       "Learning Outcome & Expectations from the students": "database development, data curation, etc",
       "Weekly Time Commitment": "6-12 hrs/week",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Multidisciplinary",
@@ -1100,8 +1064,7 @@
       "Learning Outcome & Expectations from the students": "Publications in the top journals and conferences in control and dynamical systems, and/or  patents.",
       "Weekly Time Commitment": "20 hr per week during the summer; weekly meetings (online if needed)",
       "Assignment": "https://www.sc.iitb.ac.in/~chatterjee/master/homepage/quito.html and the articles indicated there.",
-      "Instructions for assignment": "Only serious students may apply.",
-      "Additional key points": ""
+      "Instructions for assignment": "Only serious students may apply."  
     },
     {
       "Domain": "Multidisciplinary",
@@ -1117,8 +1080,7 @@
       "Learning Outcome & Expectations from the students": "Exposure to the very interesting and deep theoretical apparatus of signatures and bringing it to the forefront of anomaly detection; as a consequence, publications in top journals and conferences of ML and cybernetics.",
       "Weekly Time Commitment": "20 hr per week during the summer and weekly meetings (online if necessary).",
       "Assignment": "Restricted access; contact me over email for details.",
-      "Instructions for assignment": "Reading material will be provided after the project starts.",
-      "Additional key points": ""
+      "Instructions for assignment": "Reading material will be provided after the project starts."  
     },
     {
       "Domain": "Multidisciplinary",
@@ -1134,8 +1096,8 @@
       "Learning Outcome & Expectations from the students": "Semiconductor devices, failure analysis, Micro-nano fabrication, advanced characterization.",
       "Weekly Time Commitment": "1-2 hrs per week and meeting on each alternate week",
       "Assignment": "https://ieeexplore.ieee.org/document/5582645",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Multidisciplinary",
@@ -1151,8 +1113,8 @@
       "Learning Outcome & Expectations from the students": "Corrosion studies, Advanced electrochemical characterization, Biomedical application (implants, drug delivery)",
       "Weekly Time Commitment": "1-2 hrs per week and meeting on each alternate week",
       "Assignment": "https://link.springer.com/article/10.1186/s11671-018-2597-z",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Physics",
@@ -1168,8 +1130,8 @@
       "Learning Outcome & Expectations from the students": "1) quantum transport based device simulation possibly culminating in a research publication 2) collaborations with experimental groups",
       "Weekly Time Commitment": "Varies",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Physics",
@@ -1236,8 +1198,7 @@
       "Learning Outcome & Expectations from the students": "- Physics of GRB jets and afterglows, including the interaction of jets with the interstellar medium\n- Theoretical and analytical interpretation of multi-band lightcurve data\n- Markov chain Monte Carlo (MCMC) implementation for sampling parameter space\n\nOther expectations:\nThis is a two-semester project, with reading work this Summer. Working on this project in winter is to be decided by mutual agreement, and availability of other opportunities to the student. The student will be exposed to analyses of many sources and will have opportunities to join refereed publications.",
       "Weekly Time Commitment": "8 hours/week, 3 weekly meetings",
       "Assignment": "What are GRBs -  https://en.wikipedia.org/wiki/Gamma-ray_burst \n  X-ray afterglow of short GRB 111020A - https://astrobites.org/2012/04/30/are-short-gamma-ray-bursts-jets/",
-      "Instructions for assignment": "Candidates should write a page about Gamma Ray Bursts and the radiation processes involved in the AFTERGLOW emission. In the interview, they should be able to explain what are the types of GRBs, and how high-energy radiation is produced. They should be able to explain the importance of optical and X-ray followup for determining jet features.",
-      "Additional key points": ""
+      "Instructions for assignment": "Candidates should write a page about Gamma Ray Bursts and the radiation processes involved in the AFTERGLOW emission. In the interview, they should be able to explain what are the types of GRBs, and how high-energy radiation is produced. They should be able to explain the importance of optical and X-ray followup for determining jet features."  
     },
     {
       "Domain": "Physics",
@@ -1253,8 +1214,7 @@
       "Learning Outcome & Expectations from the students": "- Students will get first-hand experience and a better understanding of real-time observations from telescopes.\n- Students will have the opportunity to observe and discover asteroids, leading to publications.\n- Students will have the opportunity to lead and/or be a part of publications (GCNs, ATels,  Astronote, MPECs, refereed publications) on which they have worked.\n\nOther expectations:\n- This is a two-semester project, with reading work this Summer. Working on this project in winter  is to be decided by mutual agreement, and availability of other opportunities to the student.\n- The student is encouraged to be involved in telescope operations and observation.\n- The student is encouraged to be involved in nightly observations during transient follow-up\n- The student is encouraged to participate in optical follow-up studies of Gravitational Wave sources (EMGW events).",
       "Weekly Time Commitment": "8 hours/week, 3 weekly meetings",
       "Assignment": "https://arxiv.org/abs/2306.16519 -  Astreaks: Astrometry of NEOs with trailed background stars\nor\nFirst three modules of GROWTH Astronomy School 2020 - Python Basics, Image Data Reduction, UV, Optical and IR Photometry.  (https://www.growth.caltech.edu/growth-astro-school-2020-resources.html)",
-      "Instructions for assignment": "Write a 1-page summary of the paper, focusing on how we can find the exact coordinates of an asteroid in the sky from \"streaked\" images.\nOR\nComplete the first 3 GROWTH modules (we will check your understanding in an interview)",
-      "Additional key points": ""
+      "Instructions for assignment": "Write a 1-page summary of the paper, focusing on how we can find the exact coordinates of an asteroid in the sky from \"streaked\" images.\nOR\nComplete the first 3 GROWTH modules (we will check your understanding in an interview)"  
     },
     {
       "Domain": "Physics",
@@ -1270,8 +1230,7 @@
       "Learning Outcome & Expectations from the students": "- Astrophysics: Students will have an understanding of various kinds of transients like Supernovae, Kilonovae, Gamma-ray Bursts, Fast Blue Optical Transients etc.\n- Learn data processing of astronomical images at an advanced level.\n- Coding: advanced astropy and numpy; better coding practices including version control, understanding code integration into larger projects\n- Have first-hand experience and a better understanding of real-time observations from telescopes.\n- Other: how to work with a large international team across multiple time zones\n- Students will have the opportunity to lead and/or be a part of publications (GCNs, ATels,  Astronote, MPECs, refereed publications) on which they have worked.\n\nOther expectations:\n- This is a two-semester project, with reading work this Summer. Working on this project in winter is to be decided by mutual agreement, and availability of other opportunities to the student.\n- The student is encouraged to be involved in telescope operations and observation. \n- The student is encouraged to be involved in nightly observations during transient follow-up",
       "Weekly Time Commitment": "8 hours/week, 3 weekly meetings",
       "Assignment": "First three modules of GROWTH Astronomy School 2020 - Python Basics, Image Data Reduction, UV, Optical and IR Photometry.   (https://www.growth.caltech.edu/growth-astro-school-2020-resources.html)",
-      "Instructions for assignment": "Complete the first 3 GROWTH modules (we will check your understanding in an interview)",
-      "Additional key points": ""
+      "Instructions for assignment": "Complete the first 3 GROWTH modules (we will check your understanding in an interview)"  
     },
     {
       "Domain": "Physics",
@@ -1287,8 +1246,7 @@
       "Learning Outcome & Expectations from the students": "- Developing an understanding of telescope operations and scheduling for searching for electromagnetic counterparts to gravitational wave sources\n- Participation in the international GROWTH collaboration\n- Opportunities to participate in GROWTH-India Telescope observations and operations. Good students will get the opportunity to co-author refereed publications.\n- Training in good coding practices and software development from some of the best people around the world\n\nOther expectations:\nThis is a two-semester project, with reading work this July. Working on this project in December is to be decided by mutual agreement, and availability of other opportunities to the student. The student will be exposed to multiple analyses and will have opportunities to become a co-author on refereed publications.",
       "Weekly Time Commitment": "8 hours/week, 3 weekly meetings",
       "Assignment": "An Enhanced Method for Scheduling Observations of Large Sky Error Regions for Finding Optical Counterparts to Transients    https://arxiv.org/abs/1603.01689",
-      "Instructions for assignment": "Candidates should read the paper above and summarize it in their own words.",
-      "Additional key points": ""
+      "Instructions for assignment": "Candidates should read the paper above and summarize it in their own words."  
     },
     {
       "Domain": "School of Management (SOM)",
@@ -1304,8 +1262,8 @@
       "Learning Outcome & Expectations from the students": "Will learn to apply appropriate techniques to solve problems in Business domain.  Expectation: Being sincere and hard working.",
       "Weekly Time Commitment": "10 hours in a week and meeting once in a week.",
       "Assignment": "",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "School of Management (SOM)",
@@ -1338,8 +1296,7 @@
       "Learning Outcome & Expectations from the students": "Publications in the top journals and conferences in control and dynamical systems, and/or  patents. \nOnly serious students may apply.",
       "Weekly Time Commitment": "10 hr per week during the summer; weekly meetings (online if needed).",
       "Assignment": "https://www.sc.iitb.ac.in/~chatterjee/master/homepage/quito.html and the articles indicated therein.",
-      "Instructions for assignment": "Please study https://arxiv.org/abs/2404.13681 and try to understand the problems before the interview.",
-      "Additional key points": ""
+      "Instructions for assignment": "Please study https://arxiv.org/abs/2404.13681 and try to understand the problems before the interview."  
     },
     {
       "Domain": "Systems and Control Engineering (SYSCON)",
@@ -1355,8 +1312,7 @@
       "Learning Outcome & Expectations from the students": "Exposure to the very interesting and deep theoretical apparatus of signatures and bringing it to the forefront of anomaly detection; as a consequence, publications in top journals and conferences of ML and cybernetics.",
       "Weekly Time Commitment": "20 hr per week during the summer and weekly meetings (online if necessary)",
       "Assignment": "Restricted access; send me an email to discuss.",
-      "Instructions for assignment": "Material will be provided at the start of the project.",
-      "Additional key points": ""
+      "Instructions for assignment": "Material will be provided at the start of the project."  
     },
     {
       "Domain": "Systems and Control Engineering (SYSCON)",
@@ -1372,8 +1328,7 @@
       "Learning Outcome & Expectations from the students": "Publications in the top journals and conferences in control and ML, and/or  patents.",
       "Weekly Time Commitment": "20 hr during the summer, weekly meetings (online if needed).",
       "Assignment": "https://arxiv.org/abs/2404.19756\nhttps://arxiv.org/abs/2306.03027",
-      "Instructions for assignment": "A reasonable understanding of the MPC technique is a plus.",
-      "Additional key points": ""
+      "Instructions for assignment": "A reasonable understanding of the MPC technique is a plus."  
     },
     {
       "Domain": "Systems and Control Engineering (SYSCON)",
@@ -1389,8 +1344,8 @@
       "Learning Outcome & Expectations from the students": "Exposure to cutting-edge analytic and topological tools for signal analysis; as a consequence, publications in top journals and conferences of ML and cybernetics.",
       "Weekly Time Commitment": "20 hr during the summer, weekly meetings (online if needed).",
       "Assignment": "Material not available online; contact me for details.",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     },
     {
       "Domain": "Systems and Control Engineering (SYSCON)",
@@ -1406,7 +1361,7 @@
       "Learning Outcome & Expectations from the students": "Students will learn about mathematical modelling of mechanical systems, model-based control techniques, numerical methods and hardware implementation.",
       "Weekly Time Commitment": "Students should meet me once in a week to discuss the progress. The number of hours they spend on the project is not important as long they stay committed to the problem and show constant progress.",
       "Assignment": "https://youtu.be/2IvgK5pK7Og",
-      "Instructions for assignment": "",
-      "Additional key points": ""
+      "Instructions for assignment": ""
+      
     }
   ]
