@@ -1,60 +1,83 @@
 // Function to get the current domain from URL parameters
 function getCurrentDomain() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const domain = urlParams.get('domain');
-    return domain ? domain.charAt(0).toUpperCase() + domain.slice(1) : null; // Capitalize the first letter if domain exists
+  const urlParams = new URLSearchParams(window.location.search);
+  const domain = urlParams.get("domain");
+  return domain ? domain.charAt(0).toUpperCase() + domain.slice(1) : null; // Capitalize the first letter if domain exists
 }
 
-
 // Fetch the projects JSON data
-fetch('projects.json')
-    .then(response => response.json())
-    .then(projects => {
-        const projectCardsContainer = document.getElementById('project-cards');
-        const currentDomain = getCurrentDomain();
+fetch("projects.json")
+  .then((response) => response.json())
+  .then((projects) => {
+    const projectCardsContainer = document.getElementById("project-cards");
+    const currentDomain = getCurrentDomain();
 
-        // Filter projects based on the current domain
-        const filteredProjects = projects.filter(project => project.Domain === currentDomain);
+    // Filter projects based on the current domain
+    const filteredProjects = projects.filter(
+      (project) => project.Domain === currentDomain
+    );
 
-        // Update the heading based on the current domain
-        const title = document.querySelector('.title');
-        title.textContent = `PROJECTS IN THE ${currentDomain.toUpperCase()} DEPARTMENT`;
+    // Update the heading based on the current domain
+    const title = document.querySelector(".title");
+    title.textContent = `PROJECTS IN THE ${currentDomain.toUpperCase()} DEPARTMENT`;
 
-        filteredProjects.forEach((project, index) => {
-            // Create project card
-            const card = document.createElement('div');
-            card.className = 'col';
-            card.innerHTML = `
+    filteredProjects.forEach((project, index) => {
+      // Create project card
+      const card = document.createElement("div");
+      card.className = "col";
+      card.innerHTML = `
                 <div class="card h-100 shadow">
                     <h5 class="card-title text-center">${project["Project Title"]}</h5>
-                    <div class="card-body">
+                    <div class="card-body" >
                         <div class="card-text">
                             <h6>Professor: ${project["Name of Professor"]}</h6>
                             <h6>UID: ${project["Project UID"]}</h6>
                         </div>
-                        <button
-                            type="button"
-                            class="btn btn-primary"
-                            data-bs-toggle="modal"
-                            data-bs-target="#modal-${index}"
-                            style="background-color: #004AAD; border-color: #004AAD">
-                            Details
-                        </button>
+                        <div style='display:flex; gap:100px'>
+                            <div>
+                                <button
+                                    type="button"
+                                    class="btn btn-primary"
+                                    data-bs-toggle="modal"
+                                    data-bs-target="#modal-${index}"
+                                    style="background-color: #004AAD; border-color: #004AAD">
+                                    Details
+                                </button>
+                            </div>
+                            <div style='display:flex; gap:8px'>
+                                <button
+                                    type="button"
+                                    class="btn btn-primary"
+                                    data-bs-toggle="modal"
+                                    data-bs-target="#modal-${index}"
+                                    style="background-color: red; border-color: transparent; color: black">
+                                    SURGE
+                                </button>
+                                <button
+                                    type="button"
+                                    class="btn btn-primary"
+                                    data-bs-toggle="modal"
+                                    data-bs-target="#modal-${index}"
+                                    style="background-color: yellow; border-color: transparent; color: black">
+                                    UGP
+                                </button>
+                            </div>
+                        </div>
                     </div>
                 </div>
             `;
-            projectCardsContainer.appendChild(card);
+      projectCardsContainer.appendChild(card);
 
-            // Create project modal
-            const modal = document.createElement('div');
-            modal.className = 'modal fade';
-            modal.id = `modal-${index}`;
-            modal.setAttribute('data-bs-backdrop', 'static');
-            modal.setAttribute('data-bs-keyboard', 'false');
-            modal.setAttribute('tabindex', '-1');
-            modal.setAttribute('aria-labelledby', `modalLabel-${index}`);
-            modal.setAttribute('aria-hidden', 'true');
-            modal.innerHTML = `
+      // Create project modal
+      const modal = document.createElement("div");
+      modal.className = "modal fade";
+      modal.id = `modal-${index}`;
+      modal.setAttribute("data-bs-backdrop", "static");
+      modal.setAttribute("data-bs-keyboard", "false");
+      modal.setAttribute("tabindex", "-1");
+      modal.setAttribute("aria-labelledby", `modalLabel-${index}`);
+      modal.setAttribute("aria-hidden", "true");
+      modal.innerHTML = `
                 <div class="modal-dialog modal-lg">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -115,7 +138,7 @@ fetch('projects.json')
                     </div>
                 </div>
             `;
-            document.body.appendChild(modal);
-        });
-    })
-    .catch(error => console.error('Error fetching project data:', error));
+      document.body.appendChild(modal);
+    });
+  })
+  .catch((error) => console.error("Error fetching project data:", error));
